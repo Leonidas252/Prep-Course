@@ -7,11 +7,18 @@ img {
 #thirdDiv {
 	height: 600px;
 	width: 500px;
-	background: red;
+	background: #4d2211;
 	padding: 50px;
 	border: 1px solid black;
 }
 #spanId {
 	font-size: 18px;
 	margin: 50px;
+}
+body {
+	background-image: url('https://c1.wallpaperflare.com/preview/965/993/80/background-baked-cheese-circle.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color: #FFFFFF;
 }

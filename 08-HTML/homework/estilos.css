@@ -1,0 +1,49 @@
+body {
+	background-color: black;
+	color: white;
+	background-image: url('DALL·E 2022-12-10 23.38.03 - red moon on black sky.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+img {
+	height: 200px;
+	width: 200px;
+}
+.primerDiv {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background: darkred;
+	padding: 10px;
+	border: 1px;
+}
+.segDiv {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin: auto;
+}
+.cuarDiv {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+	justify-content: center;
+	margin: auto;
+}
+.sepDiv {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin: auto;
+}
+.octDiv {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin: auto;
+}
